@@ -1,0 +1,35 @@
+{
+  "FirstName":"Vinni",
+  "LastName":"k",
+  "age":20,
+  "height":5.6,
+  "phoneno":[{"type":"home","number":"212-456 7345"},{"type":"fax","number":"312 456-7891"}]
+}
+{
+  "FirstName":"Manasa",
+  "LastName":"c",
+  "age":20,
+  "height":5.6,
+  "phoneno":[{"type":"home","number":"212-456 7345"},{"type":"fax","number":"312 456-7891"}]
+}
+{
+  "FirstName":"Vinni",
+  "LastName":"ch",
+  "age":20,
+  "height":5.6,
+  "phoneno":[{"type":"home","number":"212-456 7345"},{"type":"fax","number":"312 456-7891"}]
+}
+{
+  "FirstName":"Vineetha",
+  "LastName":"k",
+  "age":20,
+  "height":5.6,
+  "phoneno":[{"type":"home","number":"212-456 7345"},{"type":"fax","number":"312 456-7891"}]
+}
+{
+  "FirstName":"Munni",
+  "LastName":"k",
+  "age":20,
+  "height":5.6,
+  "phoneno":[{"type":"home","number":"212-456 7345"},{"type":"fax","number":"312 456-7891"}]
+}
